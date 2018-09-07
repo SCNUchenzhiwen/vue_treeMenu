@@ -1,7 +1,7 @@
 {
-  "name": "handlock",
+  "name": "treeMenu",
   "version": "1.0.0",
-  "description": "handlock",
+  "description": "treeMenu",
   "author": "Chenzhiwen",
   "private": true,
   "scripts": {
