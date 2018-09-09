@@ -29,7 +29,9 @@
 使用直接下载components/treeMenu文件即可
 
 # 效果图
-![treemenu]https://github.com/SCNUchenzhiwen/vue_treeMenu/blob/master/trreMenu.jpg
+![treemenu](https://github.com/SCNUchenzhiwen/vue_treeMenu/blob/master/trreMenu.jpg)
+![效果图](https://github.com/SCNUchenzhiwen/vue_treeMenu/blob/master/drop.jpg)
+![效果图](https://github.com/SCNUchenzhiwen/vue_treeMenu/blob/master/undrop.jpg)
 
 
 > treeMenu
