@@ -28,6 +28,9 @@
       
 使用直接下载components/treeMenu文件即可
 
+# 效果图
+![treemenu]https://github.com/SCNUchenzhiwen/vue_treeMenu/blob/master/trreMenu.jpg
+
 
 > treeMenu
 
